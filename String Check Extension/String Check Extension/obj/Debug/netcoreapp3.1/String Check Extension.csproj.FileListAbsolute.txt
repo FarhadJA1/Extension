@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\obj\Debug\netcoreapp3.1\String Check Extension.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\obj\Debug\netcoreapp3.1\String Check Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\obj\Debug\netcoreapp3.1\String Check Extension.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\obj\Debug\netcoreapp3.1\String Check Extension.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\obj\Debug\netcoreapp3.1\String Check Extension.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\bin\Debug\netcoreapp3.1\String Check Extension.exe
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\bin\Debug\netcoreapp3.1\String Check Extension.deps.json
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\bin\Debug\netcoreapp3.1\String Check Extension.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\bin\Debug\netcoreapp3.1\String Check Extension.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\bin\Debug\netcoreapp3.1\String Check Extension.dll
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\bin\Debug\netcoreapp3.1\String Check Extension.pdb
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\obj\Debug\netcoreapp3.1\String Check Extension.dll
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\obj\Debug\netcoreapp3.1\String Check Extension.pdb
+C:\Users\ASUS\OneDrive\Desktop\C# Project Examples\Extension\String Check Extension\String Check Extension\obj\Debug\netcoreapp3.1\String Check Extension.genruntimeconfig.cache
